@@ -1,4 +1,4 @@
-X,CH1,CH2,Start,Increment,
+X,CH1,CH2,Start,Increment
 Sequence,Volt,Volt,-1.156000e-02,8.000000e-07
 0,1.12e+00,-2.40e-03,
 1,1.12e+00,-2.00e-03,
